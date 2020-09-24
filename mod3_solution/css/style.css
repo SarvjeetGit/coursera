@@ -1,0 +1,14 @@
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+.navbar-brand a{
+	font-family: 'Luckiest guy', cursive;
+	color: #fff;
+	font-size: 1.75em;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color: black;
+}
+#navbar{
+	background-color:#cce6ff;
+}
